@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace ReNovo_API.Database.Models;
+namespace ReNovo_API.Models.Entities;
 
 public class User
 {
