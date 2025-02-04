@@ -1,5 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using ReNovo_API.Database.Models;
+using ReNovo_API.Models.Entities;
 
 namespace ReNovo_API.Database;
 
